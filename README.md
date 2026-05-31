@@ -187,4 +187,4 @@ an in-app workflow for keep-alive and update triggers.
 
 ## Security notes
 
-Do not commit secrets. Use Hugging Face Space secrets and GitHub Actions secrets.
+Do not commit secrets. Use Hugging Face Space secrets and GitHub Actions secrets. 
