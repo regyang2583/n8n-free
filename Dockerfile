@@ -12,4 +12,4 @@ RUN echo '#!/bin/sh' > /entrypoint-wrapper.sh && \
 
 USER node
 ENTRYPOINT ["/entrypoint-wrapper.sh"]
-CMD ["n8n"]
+CMD ["/usr/local/bin/n8n"]
